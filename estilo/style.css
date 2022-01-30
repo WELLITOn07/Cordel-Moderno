@@ -12,6 +12,9 @@
     margin: 0px;
     padding: 0px;
 }
+abbr {
+    text-decoration: none;
+}
 html, body {
     min-height: 100vh;
     background-color: darkgray;
